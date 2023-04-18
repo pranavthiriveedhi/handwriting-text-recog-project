@@ -1,0 +1,1 @@
+# handwriting-text-recog-project
